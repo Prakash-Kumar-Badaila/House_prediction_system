@@ -57,25 +57,7 @@ A full-stack Machine Learning web application that predicts house prices based o
 
 # 📂 Project Structure
 
-```text
-House-Price-Prediction-System/
-│
-├── backend/
-│   ├── config/
-│   ├── predictor/
-│   ├── house_price_model.pkl
-│   ├── manage.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── README.md
-```
 
----
 
 # ⚙️ How It Works
 
@@ -98,15 +80,8 @@ House-Price-Prediction-System/
 
 # 🚀 Getting Started
 
-## 1. Clone the Repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction-system.git
-```
 
-```bash
-cd house-price-prediction-system
-```
 
 ---
 
